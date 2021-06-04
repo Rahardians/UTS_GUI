@@ -42,3 +42,5 @@
 ## Perbaikan Codingan Nomer 2
 
 ![enter image description here](https://i.ibb.co/sbG4vxK/No-2.png)
+
+Analisa : Pada Codingan tersebut terdapat kesalahan pada line 16, perlu dihapus untuk indentasi pada line 16 agar bisa berjalan dengan baik
